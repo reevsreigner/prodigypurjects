@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 import matplotlib.pyplot as plt
 
 # File path
-file_path = r"C:\Users\Krishna\Downloads\API_SP.POP.TOTL_DS2_en_xml_v2_6545412\API_SP.POP.TOTL_DS2_en_xml_v2_6545412.xml"
+file_path = r"C:\Users\API_SP.POP.TOTL_DS2_en_xml_v2_6545412\API_SP.POP.TOTL_DS2_en_xml_v2_6545412.xml"
 
 # Parse the XML file
 tree = ET.parse(file_path)
